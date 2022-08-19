@@ -45,6 +45,7 @@ iw
 iwd
 jfsutils
 kitty-terminfo
+kate
 less
 lftp
 libfido2
@@ -82,6 +83,10 @@ openssh
 openvpn
 partclone
 parted
+plasma-workspace
+plasma-pa
+pipewire
+pipwire-pluse
 partimage
 pcsclite
 ppp
@@ -96,6 +101,7 @@ rsync
 rxvt-unicode-terminfo
 screen
 sdparm
+steamdeck-kde-presets
 sg3_utils
 smartmontools
 sof-firmware
