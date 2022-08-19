@@ -83,10 +83,6 @@ openssh
 openvpn
 partclone
 parted
-plasma-workspace
-plasma-pa
-pipewire
-pipwire-pluse
 partimage
 pcsclite
 ppp
@@ -101,7 +97,6 @@ rsync
 rxvt-unicode-terminfo
 screen
 sdparm
-steamdeck-kde-presets
 sg3_utils
 smartmontools
 sof-firmware
@@ -128,3 +123,14 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# GUI
+steamdeck-kde-presets
+plasma-workspace
+plasma-pa
+pipewire
+pipwire-pluse
+sddm
+ark
+firefox
+networkmanager
