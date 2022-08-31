@@ -69,6 +69,8 @@ mkinitcpio-nfs-utils
 modemmanager
 mtools
 nano
+nvidia
+nvidia-dkms
 nbd
 ndisc6
 nfs-utils
