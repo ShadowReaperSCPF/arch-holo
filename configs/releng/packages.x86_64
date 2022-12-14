@@ -69,7 +69,6 @@ mkinitcpio-nfs-utils
 modemmanager
 mtools
 nano
-nvidia
 nvidia-dkms
 nbd
 ndisc6
@@ -132,7 +131,9 @@ plasma-workspace
 plasma-pa
 pipewire
 pipwire-pluse
+kate
 sddm
 ark
+calamares 
 firefox
 networkmanager
