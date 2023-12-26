@@ -125,14 +125,18 @@ zsh
 
 # GUI
 steamdeck-kde-presets
-plasma-workspace
-plasma-pa
+plasma
+plasma-nm
+plasma-meta
+xorg-server
 pipewire
-pipwire-pluse
-kate
-sddm
-ark
-calamares 
-firefox
+pipewire-pulse
+vim
+xdg-user-dirs
+bash-completion
 networkmanager
+network-manager-applet
+mousepad
+gvfs
+neofetch
 holo-keyring
